@@ -1,9 +1,9 @@
 # 20+ Web Projects With Vanilla JavaScript
 Vanilla JavaScript (or Vanilla JS) is not a framework or a library—it is simply plain, native JavaScript.
 
--Vanilla JS vs. Modern FrameworksFeatureVanilla JavaScriptFrameworks (React, Vue, Angular)What it isThe core programming language itself.Tools built on top of JavaScript.DependenciesZero. No installation or setup required.Requires heavy third-party packages.PerformanceExtremely fast. Executes directly in the browser.Slower initial load times due to extra code.ApproachImperative: You must manually tell the browser exactly how to update the UI step-by-step.Declarative: You define what the UI should look like, and the framework updates it.
+
 This is the main repository for all of the projects in the course.
-- []
+- [study material](https://www.geeksforgeeks.org/javascript/what-is-vanilla-javascript/)
 - [Course Link](https://www.traversymedia.com/20-Vanilla-JavaScript-Projects)
 - [Get Course On Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75)
 
